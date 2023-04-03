@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 1f5e2d33c5046ce46ac921c7fac74304
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bee-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f12db74e90f2f9439f6afd0517d0fc1
+      internalID: 658294210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7e9260f5b63346a2e1e656035f26b
+      internalID: 127802751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a4706790115a468468aba88a0bec3
+      internalID: -847233721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953631f512030a4686b4c465f2819ec
+      internalID: 2125809735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15923606bda95ea40ba172f70406e5d9
+      internalID: -2109393306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cc6d19342cbe4e9bc96c71c4b925b
+      internalID: 1037553205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72bfc88bd9c764091a0276a7a63f25
+      internalID: -586857821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44452fad55618349883ee6cfcd31a0a
+      internalID: -939076090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2012f2fd6ce82224c8a7f30456b84b55
+      internalID: 865701445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f39561ee4feb742b7cc9cb4239bb66
+      internalID: -1798497315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3adbc34cef28934186f6bb0fb5cbaf3
+      internalID: -1322899496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77c4239b97c4345982d86a2089bfdb
+      internalID: 1194324133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1322df62c6c641a6b2f161a86e5b6
+      internalID: 399153408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaab29035e2e2e439b32871826cfcb8
+      internalID: -704177818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491becb4f1f18c4ea7d600c59d1a89a
+      internalID: -259963916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 0
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -87.5}
+        - {x: 83.5, y: 0}
+        - {x: 0, y: 87.5}
+        - {x: -83.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ab1012f1458348a29de8fbd23bb17
+      internalID: -1671645857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bee-Sheet_7: -939076090
+      Bee-Sheet_4: -2109393306
+      Bee-Sheet_6: -586857821
+      Bee-Sheet_14: -259963916
+      Bee-Sheet_13: -704177818
+      Bee-Sheet_12: 399153408
+      Bee-Sheet_3: 2125809735
+      Bee-Sheet_0: 658294210
+      Bee-Sheet_9: -1798497315
+      Bee-Sheet_11: 1194324133
+      Bee-Sheet_10: -1322899496
+      Bee-Sheet_2: -847233721
+      Bee-Sheet_1: 127802751
+      Bee-Sheet_8: 865701445
+      Bee-Sheet_15: -1671645857
+      Bee-Sheet_5: 1037553205
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
